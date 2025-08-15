@@ -15,7 +15,7 @@ Each subject has two folders:
 ## 🛠 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/BCA-5th-Semester.git
+   git clone https://github.com/Blairex/BCA-5th-Semester-Codes
 
 ---
 
