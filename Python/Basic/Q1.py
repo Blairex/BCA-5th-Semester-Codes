@@ -13,3 +13,4 @@
 # Write initial function for solution
 # Test function with sample inputs
 # Fix logical errors in function
+# Add exception handling for edge cases
