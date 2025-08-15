@@ -21,5 +21,6 @@ Each subject has two folders:
 
 ## 📧 Contact
 Maintainer: Blairex  
-Email: jerryblair0927@gmail.com 
+Email: jerryblair0927@gmail.com
+
 GitHub: [@blairex](https://github.com/blairex)
