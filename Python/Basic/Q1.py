@@ -3,3 +3,4 @@
 # Import necessary modules
 # Set up basic input handling
 # Write initial function for solution
+# Test function with sample inputs
