@@ -1,18 +1,6 @@
-# Create Q1.py file
-# Add problem statement as comment
-# Import necessary modules
-# Set up basic input handling
-# Write initial function for solution
-# Test function with sample inputs
-# Fix logical errors in function
-# Add exception handling for edge cases
-# Create Q1.py file
-# Add problem statement as comment
-# Import necessary modules
-# Set up basic input handling
-# Write initial function for solution
-# Test function with sample inputs
-# Fix logical errors in function
-# Add exception handling for edge cases
-# Optimize code for efficiency
-# Finalize Q1.py and clean up code
+# Create a program that takes user input for the radius of a circle and calculates its area using variables and basic arithmetic operators.
+
+radius = float(input("Enter the radius of the circle: "))
+pi = 3.14159
+area = pi * radius * radius
+print("The area of the circle is:", area)
