@@ -12,3 +12,4 @@
 # Set up basic input handling
 # Write initial function for solution
 # Test function with sample inputs
+# Fix logical errors in function
