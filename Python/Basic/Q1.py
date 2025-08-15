@@ -15,3 +15,4 @@
 # Fix logical errors in function
 # Add exception handling for edge cases
 # Optimize code for efficiency
+# Finalize Q1.py and clean up code
