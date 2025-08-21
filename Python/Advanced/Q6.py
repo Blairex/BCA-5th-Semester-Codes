@@ -1,3 +1,4 @@
+# Program Q6 updated header
 # 6. Write a program that takes user input for a day and checks if it's a weekday using a tuple.
 weekdays = ("monday", "tuesday", "wednesday", "thursday", "friday")
 
