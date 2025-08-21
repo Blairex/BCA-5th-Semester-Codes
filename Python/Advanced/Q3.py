@@ -1,3 +1,4 @@
+# Program Q3 updated header
 # 3. Create a program that takes multiple lists as input and calculates the length of each list using a function.
 def list_length(lst):
     return len(lst)
