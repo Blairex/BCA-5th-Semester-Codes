@@ -20,3 +20,4 @@ while True:
         break
     else:
         print("Invalid choice")
+# Extra feature note
