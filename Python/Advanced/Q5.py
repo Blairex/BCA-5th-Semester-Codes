@@ -7,3 +7,4 @@ def print_dict(d):
 
 data = {"a": 1, "b": 2, "c": 3}
 print_dict(data)
+# Small improvement
