@@ -1,3 +1,4 @@
+# Program Q5 updated header
 # 5. Write a function to print all keys and values from a dictionary in separate lists.
 def print_dict(d):
     keys = list(d.keys())
