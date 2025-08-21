@@ -6,3 +6,4 @@ if day in weekdays:
     print(day, "is a weekday")
 else:
     print(day, "is not a weekday")
+# Added extra info
